@@ -6,3 +6,5 @@ Technologies:
 HTML,
 CSS,
 JAVASCRIPT
+
+It is not responsive.
